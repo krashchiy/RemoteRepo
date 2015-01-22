@@ -19,7 +19,7 @@ namespace App2
             return w == "borrow";
         }
 
-        static void show()
+        static void shows()
         {
             Console.WriteLine("The knowledge will break the shackles of slavery");
         }
