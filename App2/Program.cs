@@ -11,7 +11,7 @@ namespace App2
         static void Main(string[] args)
         {
             string bro = "borrow";
-            Console.Write(bro); 
+            Console.Write("borrow is " + word("borrow")); 
         }
 
         static bool word(string w)
